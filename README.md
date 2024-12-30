@@ -7,3 +7,4 @@ git add .
 git commit -m "commit message 2"
 git checkout main
 git merge newbranch
+Typing this line in remote repository
